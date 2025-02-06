@@ -14,7 +14,7 @@ This project demonstrates controlling a DC motor and an LED using an Arduino. Th
 ## Components Used
 - **Arduino Uno**
 - **DC Motor**
-- **L298N Motor Driver**
+- **L293D Motor Driver**
 - **LED**
 - **Resistors**
 - **External Power Supply (if required)**

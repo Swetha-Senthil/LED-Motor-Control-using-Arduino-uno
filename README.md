@@ -1,4 +1,5 @@
 # LED-Motor-Control-using-Arduino-uno
+![image](https://github.com/user-attachments/assets/5e7e246f-0e42-40ac-86a9-aedd482af810)
 # Arduino Motor and LED Control
 
 This project demonstrates controlling a DC motor and an LED using an Arduino. The motor direction is controlled via serial input, and the LED blinks at a fixed interval without blocking execution.

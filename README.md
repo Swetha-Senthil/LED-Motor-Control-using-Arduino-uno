@@ -16,8 +16,8 @@ This project demonstrates controlling a DC motor and an LED using an Arduino. Th
 - **DC Motor**
 - **L293D Motor Driver**
 - **LED**
-- **Resistors**
-- **External Power Supply (if required)**
+- **Resistor-250 ohms**
+- **External Power Supply-9V battery**
 
 ## Circuit Connections
 | Component   | Pin Connection |
